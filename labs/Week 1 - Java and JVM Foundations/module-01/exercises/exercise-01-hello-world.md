@@ -51,7 +51,7 @@ public class Hello {
 
 | Line idea | Why it matters |
 | --------- | -------------- |
-| `public class Hello` | Defines a class the JVM can load; file must be `Hello.java` |
+| `public class Hello` | Defines a class the JVM can load; file must be `../../../../java-bootcamp/examples/module-01-exercises/Hello.java` |
 | `main(String[] args)` | Special method the `java` launcher looks for |
 | `System.out.println(...)` | Sends text to the terminal |
 
@@ -66,12 +66,12 @@ public class Hello {
 | Windows | `C:\Users\<you>\java-bootcamp\examples\module-01-exercises` |
 | macOS | `/Users/<you>/java-bootcamp/examples/module-01-exercises` |
 
-### Step 2 — Create `Hello.java`
+### Step 2 — Create `../../../../java-bootcamp/examples/module-01-exercises/Hello.java`
 
 **Do this (IntelliJ):**
 
 1. Right-click `module-01-exercises` → **New → File** (not **Java Class**).
-2. Name it exactly `Hello.java`.
+2. Name it exactly `../../../../java-bootcamp/examples/module-01-exercises/Hello.java`.
 3. Paste the starter, fill every `_____` / `// TODO`. Save (**Ctrl+S** / **⌘S**).
 
 **Or from Terminal:**
@@ -90,7 +90,7 @@ cd ~/java-bootcamp/examples/module-01-exercises
 touch Hello.java
 ```
 
-**Expected:** `Hello.java` under `module-01-exercises`; editor shows the `Hello` class.
+**Expected:** `../../../../java-bootcamp/examples/module-01-exercises/Hello.java` under `module-01-exercises`; editor shows the `Hello` class.
 
 ### Step 3 — Compile and run
 
@@ -112,7 +112,7 @@ java Hello
 Hello, JVM!
 ```
 
-**Success criteria:** Output matches exactly (including punctuation); `Hello.class` appears next to `Hello.java`.
+**Success criteria:** Output matches exactly (including punctuation); `Hello.class` appears next to `../../../../java-bootcamp/examples/module-01-exercises/Hello.java`.
 
 ### Step 4 — Optional: inspect bytecode
 
@@ -132,8 +132,8 @@ After you run: confirm your prediction. (Change it back to `Hello, JVM!` for Pas
 | Problem | Typical message | Fix |
 | ------- | --------------- | --- |
 | Left a blank in source | `illegal start of expression` near `_____` | Replace every blank with real Java |
-| Class/file mismatch | `class Hello is public, should be declared in a file named…` | File must be `Hello.java` |
-| Wrong launch | `Could not find or load main class Hello` | Run `java Hello` (not `Hello.java`); compile first |
+| Class/file mismatch | `class Hello is public, should be declared in a file named…` | File must be `../../../../java-bootcamp/examples/module-01-exercises/Hello.java` |
+| Wrong launch | `Could not find or load main class Hello` | Run `java Hello` (not `../../../../java-bootcamp/examples/module-01-exercises/Hello.java`); compile first |
 | Wrong folder | `error: file not found: Hello.java` | `cd` to `module-01-exercises` |
 | IDE yellow banner | *outside of the module source root* | Ignore; do **not** Move to source root |
 

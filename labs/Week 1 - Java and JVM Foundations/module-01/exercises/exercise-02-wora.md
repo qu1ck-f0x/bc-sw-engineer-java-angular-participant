@@ -47,9 +47,9 @@ flowchart LR
 You already have `Hello.class` from Exercise 1. **Without** running `javac` again:
 
 1. Predict: does `java Hello` still print `Hello, JVM!`?
-2. Predict: if you **delete** `Hello.java` but keep `Hello.class`, does `java Hello` still work?
+2. Predict: if you **delete** `../../../../java-bootcamp/examples/module-01-exercises/Hello.java` but keep `Hello.class`, does `java Hello` still work?
 
-Then verify both predictions (restore `Hello.java` afterward if you deleted it).
+Then verify both predictions (restore `../../../../java-bootcamp/examples/module-01-exercises/Hello.java` afterward if you deleted it).
 
 ## Part A — Re-run bytecode (hands-on)
 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lab25-crm" />
+        <module name="customer-service (5)" />
+        <module name="lab17-crm" />
+        <module name="lab32-crm" />
+        <module name="customer-service (1)" />
+        <module name="customer-service (3)" />
+        <module name="lab23-crm" />
+        <module name="lab26-crm" />
+        <module name="lab39-crm" />
+        <module name="lab18-crm" />
+        <module name="lab31-crm" />
+        <module name="lab36-crm-api" />
+        <module name="lab27-crm" />
+        <module name="lab22-crm" />
+        <module name="customer-service" />
+        <module name="lab35-crm-api" />
+        <module name="customer-service (4)" />
+        <module name="lab19-crm" />
+        <module name="customer-service (2)" />
+        <module name="lab30-crm" />
+        <module name="lab15-crm" />
+        <module name="lab21-crm" />
+        <module name="lab28-crm" />
+        <module name="lab24-crm" />
+        <module name="lab29-crm" />
+        <module name="lab16-crm" />
+        <module name="lab20-crm" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="lab19-crm" options="-parameters" />
+      <module name="lab20-crm" options="-parameters" />
+      <module name="lab21-crm" options="-parameters" />
+      <module name="lab22-crm" options="-parameters" />
+      <module name="lab23-crm" options="-parameters" />
+      <module name="lab24-crm" options="-parameters" />
+      <module name="lab25-crm" options="-parameters" />
+      <module name="lab26-crm" options="-parameters" />
+      <module name="lab27-crm" options="-parameters" />
+      <module name="lab28-crm" options="-parameters" />
+      <module name="lab29-crm" options="-parameters" />
+      <module name="lab31-crm" options="-parameters" />
+      <module name="lab32-crm" options="-parameters" />
+      <module name="lab35-crm-api" options="-parameters" />
+      <module name="lab36-crm-api" options="-parameters" />
+      <module name="lab39-crm" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-08/lab8/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-09/lab9/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-10/lab10/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-11/lab11/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-12/lab12/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-14/lab14/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-15/lab15/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-16/lab16/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-17/lab17/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-18/lab18/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-19/lab19/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-20/lab20/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 2 - Backend, AI Tools and Testing/module-21/lab21/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 4 - Kafka, Angular, Oracle and Resilience/module-30/lab30/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 4 - Kafka, Angular, Oracle and Resilience/module-31/lab31/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 4 - Kafka, Angular, Oracle and Resilience/module-32/lab32/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 4 - Kafka, Angular, Oracle and Resilience/module-35/lab35/crm-api/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 4 - Kafka, Angular, Oracle and Resilience/module-36/lab36/crm-api/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 4 - Kafka, Angular, Oracle and Resilience/module-39/lab39/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 3 - Spring Framework and Enterprise Patterns/module-22/lab22/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 3 - Spring Framework and Enterprise Patterns/module-23/lab23/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 3 - Spring Framework and Enterprise Patterns/module-24/lab24/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 3 - Spring Framework and Enterprise Patterns/module-25/lab25/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 3 - Spring Framework and Enterprise Patterns/module-26/lab26/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 3 - Spring Framework and Enterprise Patterns/module-27/lab27/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 3 - Spring Framework and Enterprise Patterns/module-28/lab28/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/labs/Week 3 - Spring Framework and Enterprise Patterns/module-29/lab29/starter/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="temurin-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
