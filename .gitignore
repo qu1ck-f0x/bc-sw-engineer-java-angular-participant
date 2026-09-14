@@ -34,3 +34,6 @@ slides/*.pptx
 **/INSTRUCTOR-DEMO.md
 labs/_LAB-GUIDE-STYLE.md
 labs/**/Java_Software_Engineer_*
+
+# Personal / private only — not published to the participant repo
+/java-bootcamp/private/
