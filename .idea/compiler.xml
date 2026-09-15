@@ -26,7 +26,6 @@
         <module name="lab19-crm" />
         <module name="customer-service (2)" />
         <module name="lab30-crm" />
-        <module name="lab15-crm" />
         <module name="lab21-crm" />
         <module name="lab28-crm" />
         <module name="lab24-crm" />
@@ -35,6 +34,9 @@
         <module name="lab20-crm" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lab15-crm" target="21" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

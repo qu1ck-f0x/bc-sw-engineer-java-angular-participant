@@ -21,6 +21,8 @@
       <sourceFolder url="file://$MODULE_DIR$/java-bootcamp/module-09/exercises/starter/mini-maven" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java-bootcamp/module-09/lab9/starter/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java-bootcamp/module-11/lab11/starter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-bootcamp/module-17/lab17/starter/src/main/java/com" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-bootcamp/module-17/lab17/starter/src/test/java" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/java-bootcamp/module-06/exercises/starter/NamesDemo.java" />
       <excludeFolder url="file://$MODULE_DIR$/java-bootcamp/module-06/exercises/starter/ParallelStreamDemo.java" />
     </content>

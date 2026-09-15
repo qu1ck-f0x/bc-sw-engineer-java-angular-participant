@@ -16,7 +16,7 @@ rule: [Which file do I open?](../../_PARTICIPANT-FILE-GUIDE.md) · [Clone + own 
 | —    | After slide checkpoints A–D                                   | [`exercises/EXERCISES-INDEX.md`](exercises/EXERCISES-INDEX.md)                                                                  |
 | A    | After Module 13 deck (REST / OpenAPI / status / list queries) | Sketches in your notes (resources + URIs)                                                                                       |
 | B    | Before coding                                                 | **One** OS how-to: [`lab13/LAB-13-WINDOWS.md`](lab13/LAB-13-WINDOWS.md) **or** [`lab13/LAB-13-MACOS.md`](lab13/LAB-13-MACOS.md) |
-| C    | Graded lab                                                    | [`lab13/LAB-13-GUIDE.md`](lab13/LAB-13-GUIDE.md) — timed path [`lab13/starter/`](lab13/starter/README.md) (~45 min)             |
+| C    | Graded lab                                                    | [`lab13/LAB-13-GUIDE.md`](lab13/LAB-13-GUIDE.md) — completed path [`lab13/completed/`](lab13/completed/README.md) (~45 min)     |
 | D    | Done                                                          | Mark Pass/Fail · Kahoot if scheduled                                                                                            |
 
 **Graded project:** `module-13/lab13/completed/` (OpenAPI + design notes; optional thin Boot stub).

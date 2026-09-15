@@ -19,13 +19,13 @@ Do **not** sit through the entire Module 16 deck before practicing. Follow check
 | C    | After slides **175–177** (Checkpoint C)                                                                                                          | [`exercise-03-failure-status-map.md`](exercises/exercise-03-failure-status-map.md)                                                                                                                   |
 | D    | After slides **178–181** (Checkpoint D)                                                                                                          | [`exercise-04`](exercises/exercise-04-fill-message-hygiene-todos.md) · [`exercise-05`](exercises/exercise-05-correlation-always.md) · [`exercise-06`](exercises/exercise-06-lab16-prep-checklist.md) |
 | E    | After Exercises **1–6** Pass                                                                                                                     | **One** OS how-to: [`lab16/LAB-16-WINDOWS.md`](lab16/LAB-16-WINDOWS.md) **or** [`lab16/LAB-16-MACOS.md`](lab16/LAB-16-MACOS.md)                                                                      |
-| F    | Graded lab (Checkpoint E)                                                                                                                        | [`lab16/LAB-16-GUIDE.md`](lab16/LAB-16-GUIDE.md) — timed path [`lab16/starter/`](lab16/starter/README.md) (~45 min)                                                                                  |
+| F    | Graded lab (Checkpoint E)                                                                                                                        | [`lab16/LAB-16-GUIDE.md`](lab16/LAB-16-GUIDE.md) — completed path [`lab16/completed/`](lab16/completed/README.md) (~45 min)                                                                          |
 | G    | Done                                                                                                                                             | Mark Pass/Fail · Kahoot if scheduled                                                                                                                                                                 |
 
 **Classroom practice order:** **1 → 2 → 3 → 4 → 5 → 6**
 
-**Pre-lab vs lab:** Notes stay under `module-16/exercises/notes/`. Lab starter stays under `module-16/lab16/starter/`
-until the lab is completed.
+**Pre-lab vs lab:** Notes stay under `module-16/exercises/notes/`. Finished lab work stays under
+`module-16/lab16/completed/`.
 
 **Critical:** Catch **BusinessException before Exception**. Every Fail JSON includes `correlationId`
 (`lab-request-001`). No stack traces / SQL / PII in client messages. Demo **400 / 404 / 409**.
