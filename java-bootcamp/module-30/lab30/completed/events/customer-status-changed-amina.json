@@ -1,0 +1,13 @@
+{
+  "eventId": "7c71eb18-0a60-43de-98c3-655f74aa3bac",
+  "eventType": "CustomerStatusChanged",
+  "eventVersion": 1,
+  "occurredAt": "2026-07-13T06:10:00Z",
+  "customerId": "CUS-1001",
+  "correlationId": "lab-request-001",
+  "source": "customer-service",
+  "data": {
+    "previousStatus": "PROSPECT",
+    "status": "ACTIVE"
+  }
+}

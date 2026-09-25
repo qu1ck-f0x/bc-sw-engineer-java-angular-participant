@@ -1,0 +1,10 @@
+# Module 30 lessons learned
+
+| Part               | High-level significance                                                         | What I should learn                                                                                                                                |
+|--------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Why async          | Separates customer writes from notification, audit, and analytics side effects. | Events reduce synchronous coupling, but reliable publish after a database commit needs a design such as an outbox.                                 |
+| Topic and key map  | Freezes the stream names and ordering unit before consumers are built.          | Use `crm.customer-events.v1`, its DLQ, and `customerId` as the record key; order is per partition, not global.                                     |
+| Kafka basics       | Gives a shared operational vocabulary.                                          | A broker stores partitions, offsets are per partition, and members of one group share work while separate groups read independently.               |
+| Event envelope     | Gives consumers version and trace context.                                      | Include event ID, type, version, UTC time, customer ID, correlation, source, and minimal data; keep secrets out.                                   |
+| Producer checklist | Reduces silent loss and retry duplicates.                                       | `acks=all` and producer idempotence help within the broker/session, but RF=1 and app reruns remain risks.                                          |
+| Readiness and lab  | Connects code to actual broker evidence.                                        | Offline tests can prove configuration and payload shape, not topic creation, partition/offset behavior, groups, or lag. Those still require Kafka. |
